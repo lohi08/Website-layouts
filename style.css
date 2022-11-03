@@ -1,0 +1,31 @@
+.header{
+    background-color: rgb(248, 213, 168);
+    padding: 20px;
+    color: black;
+    text-align: center;
+}
+.column{
+    float:left;
+    background-color: rgb(231, 203, 244);
+    padding: 10px;
+    border: 2px;
+    border-color: black;
+    border-block-start-style: dotted;
+}
+.row{
+    padding: 20px;
+    display: flex;
+    font-style: oblique;
+}
+.centre{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(237, 244, 250);
+}
+.footer{
+    background-color: rgb(199, 210, 210);
+    text-align: center;
+    text-decoration: solid;
+    font-style: italic;
+    font-size: 135%;
+}
